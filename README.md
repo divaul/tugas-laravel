@@ -1,6 +1,6 @@
 # Biodata Mahasiswa
 
-Sebuah aplikasi sederhana untuk mengelola data mahasiswa menggunakan framework Laravel.
+Sebuah website sederhana untuk menampilkan data mahasiswa menggunakan framework Laravel.
 
 ## Demo
 
