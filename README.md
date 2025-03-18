@@ -6,13 +6,6 @@ Sebuah aplikasi sederhana untuk mengelola data mahasiswa menggunakan framework L
 
 ![Demo Aplikasi](assets/demo-image.jpg)
 
-## Fitur
-
-- CRUD Data Mahasiswa
-- Validasi Data Masukan
-- Pencarian dan Filter Data
-- Pagination
-- Ekspor Data (Excel/PDF)
 
 ## Instalasi
 
@@ -20,10 +13,10 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal:
 
 ```bash
 # 1. Clone repositori
-git clone https://github.com/username/biodata-mahasiswa.git
+https://github.com/divaul/tugas-laravel.git
 
 # 2. Masuk ke direktori proyek
-cd biodata-mahasiswa
+cd tugas1
 
 # 3. Install dependensi
 composer install
