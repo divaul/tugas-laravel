@@ -1,0 +1,67 @@
+/* Global Styles */
+body {
+    font-family: 'Poppins', sans-serif; /* Gunakan font modern */
+    background-color: #f8f9fa; /* Latar belakang abu-abu terang */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+}
+
+/* Container Style */
+.container {
+    background-color: #fff; /* Card dengan warna putih */
+    padding: 30px; /* Ruang di dalam card */
+    border-radius: 15px; /* Sudut membulat */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Bayangan lembut */
+    max-width: 500px;
+    text-align: left; /* Teks rata kiri */
+    transition: transform 0.3s ease;
+}
+
+/* Hover Effect */
+.container:hover {
+    transform: translateY(-10px); /* Efek hover */
+}
+
+/* Title Style */
+h1 {
+    font-size: 28px; /* Ukuran lebih besar */
+    color: #007bff; /* Warna biru */
+    margin-bottom: 20px; /* Spasi bawah */
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* Paragraph Style */
+p {
+    font-size: 18px; /* Ukuran teks lebih besar */
+    margin-bottom: 15px; /* Tambahkan spasi bawah di antara paragraf */
+    color: #555;
+}
+
+/* Strong Text Style */
+strong {
+    color: #000; /* Warna teks tebal */
+    font-weight: bold;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .container {
+        padding: 20px;
+        max-width: 90%;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    p {
+        font-size: 16px;
+        margin-bottom: 10px; /* Kurangi spasi untuk layar kecil */
+    }
+}
