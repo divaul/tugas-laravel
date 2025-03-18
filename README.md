@@ -6,8 +6,6 @@ Sebuah aplikasi sederhana untuk mengelola data mahasiswa menggunakan framework L
 
 ![Demo Aplikasi](assets/demo-image.jpg)
 
-> *Gambar di atas menunjukkan tampilan aplikasi. Ganti `assets/demo-image.jpg` dengan path gambar yang sesuai.*
-
 ## Fitur
 
 - CRUD Data Mahasiswa
